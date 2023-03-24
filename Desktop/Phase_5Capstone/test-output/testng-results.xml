@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16966" started-at="2023-03-24T08:36:09Z" finished-at="2023-03-24T08:36:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16966" started-at="2023-03-24T08:36:09Z" finished-at="2023-03-24T08:36:26Z">
+      <class name="com.test.JDBC.TestNg">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.JDBC.TestNg@5e57643e]" name="beforeClass" is-config="true" duration-ms="10" started-at="2023-03-24T08:36:09Z" finished-at="2023-03-24T08:36:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.test.JDBC.TestNg@5e57643e]" name="Test" duration-ms="6757" started-at="2023-03-24T08:36:09Z" finished-at="2023-03-24T08:36:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.test.JDBC.TestNg@5e57643e]" name="Test1" duration-ms="4275" started-at="2023-03-24T08:36:16Z" finished-at="2023-03-24T08:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.test.JDBC.TestNg@5e57643e]" name="Test2" duration-ms="5904" started-at="2023-03-24T08:36:20Z" finished-at="2023-03-24T08:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.JDBC.TestNg@5e57643e]" name="afterClass" is-config="true" duration-ms="0" started-at="2023-03-24T08:36:26Z" finished-at="2023-03-24T08:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.JDBC.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
