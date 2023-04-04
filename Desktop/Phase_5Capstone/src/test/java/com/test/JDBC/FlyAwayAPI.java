@@ -14,8 +14,8 @@ public class FlyAwayAPI {
         
         String url = "http://localhost:8080/FlyAway";
         RestAssured.baseURI =url;
-        String UN = "sowmya@cisco.com";
-        String PWD = "sowmya@123";
+        String UN = "amit@cisco.com";
+        String PWD = "Mjgda@123";
         RequestSpecification given = RestAssured.given()
                 .config(RestAssured.config().redirect(RedirectConfig.redirectConfig().followRedirects(false)));
 //        Response response = given.request(Method.GET,"/login");
